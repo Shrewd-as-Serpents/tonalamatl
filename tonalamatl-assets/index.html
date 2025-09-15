@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📚 𝕋𝕠𝔫𝕒𝔩𝔞𝔪𝔞𝔱𝔩 📚 - Nahuatl Sacred Calendar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="container">
+            <h1 class="main-title">📚 𝕋𝕠𝔫𝕒𝔩𝔞𝔪𝔞𝔱𝔩 📚</h1>
+            <p class="subtitle">Nahuatl-Maya Sacred Calendar Reference & Strategy Planner</p>
+        </div>
+    </header>
+
+    <!-- Navigation -->
+    <nav class="nav">
+        <div class="container">
+            <button class="nav-btn active" data-section="dashboard">🏠 Dashboard</button>
+            <button class="nav-btn" data-section="current-day">☀️ Current Day</button>
+            <button class="nav-btn" data-section="day-signs">🔸 Day Signs</button>
+            <button class="nav-btn" data-section="divination">🔮 Divination</button>
+            <button class="nav-btn" data-section="symbolism">⚡ Sacred Symbols</button>
+            <button class="nav-btn" data-section="planner">📅 Planner</button>
+            <button class="nav-btn" data-section="language">📖 Language</button>
+        </div>
+    </nav>
+
+    <!-- Main Content -->
+    <main class="main">
+        <!-- Dashboard Section -->
+        <section id="dashboard" class="section active">
+            <div class="container">
+                <div class="welcome-card">
+                    <h2>🌟 Welcome to the Sacred Calendar</h2>
+                    <p>Explore the ancient wisdom of the Tonalpohualli - the 260-day sacred calendar used by the Nahuatl and Maya peoples for divination, ceremony, and spiritual guidance.</p>
+                </div>
+
+                <div class="current-day-preview">
+                    <h3>Today's Sacred Day</h3>
+                    <div class="today-display">
+                        <div class="day-info">
+                            <span class="day-number" id="today-number">--</span>
+                            <span class="day-sign" id="today-sign">--</span>
+                        </div>
+                        <div class="day-details">
+                            <p class="day-name" id="today-name">Loading...</p>
+                            <p class="day-meaning" id="today-meaning">Calculating sacred time...</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="dashboard-grid">
+                    <div class="dashboard-card" data-nav="current-day">
+                        <div class="card-icon">☀️</div>
+                        <h4>Current Day</h4>
+                        <p>Detailed information about today's sacred energies</p>
+                    </div>
+                    
+                    <div class="dashboard-card" data-nav="day-signs">
+                        <div class="card-icon">🔸</div>
+                        <h4>20 Day Signs</h4>
+                        <p>Complete reference of all sacred day signs</p>
+                    </div>
+                    
+                    <div class="dashboard-card" data-nav="divination">
+                        <div class="card-icon">🔮</div>
+                        <h4>Divination Tools</h4>
+                        <p>Sacred reading methods and guidance</p>
+                    </div>
+                    
+                    <div class="dashboard-card" data-nav="symbolism">
+                        <div class="card-icon">⚡</div>
+                        <h4>Sacred Symbols</h4>
+                        <p>Twisted Gourd, Cave Cloud, Lightning Serpent</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Current Day Section -->
+        <section id="current-day" class="section">
+            <div class="container">
+                <h2>☀️ Today's Sacred Day</h2>
+                <div class="current-day-detailed">
+                    <div class="day-card">
+                        <div class="day-header">
+                            <span class="day-number-large" id="current-number">--</span>
+                            <div class="day-sign-info">
+                                <h3 class="day-sign-name" id="current-name">Loading...</h3>
+                                <p class="day-sign-unicode" id="current-unicode">--</p>
+                            </div>
+                        </div>
+                        <div class="day-details-grid">
+                            <div class="detail-item">
+                                <strong>Deity:</strong> <span id="current-deity">--</span>
+                            </div>
+                            <div class="detail-item">
+                                <strong>Direction:</strong> <span id="current-direction">--</span>
+                            </div>
+                            <div class="detail-item">
+                                <strong>Element:</strong> <span id="current-element">--</span>
+                            </div>
+                            <div class="detail-item">
+                                <strong>Meaning:</strong> <span id="current-meaning">--</span>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="trecena-info">
+                        <h3>Current Trecena (13-Day Period)</h3>
+                        <div class="trecena-details" id="trecena-info">
+                            <p>Loading trecena information...</p>
+                        </div>
+                    </div>
+                    
+                    <div class="daily-guidance">
+                        <h3>🌟 Daily Guidance</h3>
+                        <div class="guidance-text" id="daily-guidance">
+                            <p>Calculating sacred guidance for today...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Day Signs Reference -->
+        <section id="day-signs" class="section">
+            <div class="container">
+                <h2>🔸 The 20 Sacred Day Signs</h2>
+                <div class="search-bar">
+                    <input type="text" id="sign-search" placeholder="Search day signs..." class="form-control">
+                </div>
+                <div class="day-signs-grid" id="day-signs-grid">
+                    <!-- Day signs will be populated by JavaScript -->
+                </div>
+            </div>
+        </section>
+
+        <!-- Divination Tools -->
+        <section id="divination" class="section">
+            <div class="container">
+                <h2>🔮 Sacred Divination Tools</h2>
+                <div class="divination-grid">
+                    <div class="divination-tool">
+                        <h3>📖 𝕋𝕠𝔫𝕒𝔩𝔞𝔪𝔞𝔱𝔩 Reading</h3>
+                        <p>Traditional day-sign divination using the 260-day calendar</p>
+                        <button class="btn btn--primary" onclick="performTonalamatl()">Get Reading</button>
+                        <div class="reading-result" id="tonalamatl-result"></div>
+                    </div>
+                    
+                    <div class="divination-tool">
+                        <h3>📅 𝔗𝔯𝔢𝔠𝔢𝔫𝞞 Guidance</h3>
+                        <p>13-day period guidance for important decisions</p>
+                        <button class="btn btn--primary" onclick="getTrecenaGuidance()">Get Guidance</button>
+                        <div class="reading-result" id="trecena-result"></div>
+                    </div>
+                    
+                    <div class="divination-tool">
+                        <h3>🧭 Directional Wisdom</h3>
+                        <p>Cardinal direction correspondences for spatial guidance</p>
+                        <button class="btn btn--primary" onclick="getDirectionalWisdom()">Seek Wisdom</button>
+                        <div class="reading-result" id="directional-result"></div>
+                    </div>
+                    
+                    <div class="divination-tool">
+                        <h3>🥥 𝔗𝔢𝔠𝔬𝔩𝔦 Scrying</h3>
+                        <p>Sacred gourd water scrying for hidden knowledge</p>
+                        <button class="btn btn--primary" onclick="performScrying()">Begin Scrying</button>
+                        <div class="reading-result" id="scrying-result"></div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Sacred Symbolism -->
+        <section id="symbolism" class="section">
+            <div class="container">
+                <h2>⚡ Sacred Symbolism</h2>
+                <div class="symbolism-grid">
+                    <div class="symbol-card">
+                        <h3>🥥🌀 Twisted Gourd</h3>
+                        <p class="nahuatl-term">𝔗𝔢𝔠𝔬𝔪𝔞𝔦𝔯 Tecolli</p>
+                        <p><strong>Meaning:</strong> Sacred vessel for divination, ritual container</p>
+                        <div class="symbol-uses">
+                            <h4>Sacred Uses:</h4>
+                            <ul>
+                                <li>💧 Water carrier</li>
+                                <li>🎁 Ritual offerings</li>
+                                <li>🔮 Divination bowl</li>
+                                <li>🌿 Medicine container</li>
+                            </ul>
+                        </div>
+                        <div class="ritual-phrase">
+                            <p><strong>Classical Nahuatl:</strong> In tecolli, in nepantla tonatiuh</p>
+                            <p><strong>Translation:</strong> 🌟 The gourd, the center of the sun</p>
+                        </div>
+                    </div>
+                    
+                    <div class="symbol-card">
+                        <h3>🕳️☁️⚡ Cave Cloud</h3>
+                        <p class="nahuatl-term">𝔒𝔷𝔱𝔬𝔦 ℌ ℌ𝔲𝔞𝔞𝔱𝔩 Oztotl Mixtli</p>
+                        <p><strong>Meaning:</strong> Sacred cave of clouds, place of transformation</p>
+                        <p><strong>Connection:</strong> Chicomoztoc - place of seven caves, origin of peoples</p>
+                        <div class="symbol-symbolism">
+                            <p><strong>Symbolism:</strong> 🕳️ Womb of earth, 🌀 place of transformation, 🚪 underworld entrance</p>
+                        </div>
+                        <div class="ritual-phrase">
+                            <p><strong>Classical Nahuatl:</strong> Chicomoztoc, in netlatolyan</p>
+                            <p><strong>Translation:</strong> Seven caves, the place of emergence</p>
+                        </div>
+                    </div>
+                    
+                    <div class="symbol-card">
+                        <h3>⚡🐍✨☁️ Lightning Serpent</h3>
+                        <p class="nahuatl-term">𝔔𝔲𝔢𝔱𝔷𝔞𝔦-𝔗𝔩𝞠𝔞𝔯𝔬 Quetzal-Tláloc</p>
+                        <p><strong>Meaning:</strong> Feathered serpent of storm and lightning</p>
+                        <p><strong>Connection:</strong> Fusion of wind/wisdom (Quetzalcoatl) and rain/lightning (Tláloc)</p>
+                        <div class="symbol-symbolism">
+                            <p><strong>Symbolism:</strong> ⚡ Divine knowledge through storm, 💡 illumination, 🌀 transformation</p>
+                        </div>
+                        <div class="ritual-phrase">
+                            <p><strong>Classical Nahuatl:</strong> Ehēcatl-Quetzalcōātl, tlāloc-nāhuaque</p>
+                            <p><strong>Translation:</strong> Wind-Feathered Serpent, Tláloc who surrounds</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Strategy Planner -->
+        <section id="planner" class="section">
+            <div class="container">
+                <h2>📅 Sacred Strategy Planner</h2>
+                <div class="planner-controls">
+                    <label for="ceremony-type">Ceremony Type:</label>
+                    <select id="ceremony-type" class="form-control">
+                        <option value="healing">Healing Ceremony</option>
+                        <option value="blessing">Blessing Ritual</option>
+                        <option value="new-beginning">New Beginning</option>
+                        <option value="protection">Protection Ritual</option>
+                        <option value="divination">Divination Session</option>
+                        <option value="transition">Life Transition</option>
+                    </select>
+                    <button class="btn btn--primary" onclick="findAuspiciousDays()">Find Auspicious Days</button>
+                </div>
+                <div class="auspicious-days" id="auspicious-days">
+                    <p>Select a ceremony type to find the most auspicious days for your ritual.</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- Language Reference -->
+        <section id="language" class="section">
+            <div class="container">
+                <h2>📖 Language Reference</h2>
+                <div class="language-grid">
+                    <div class="language-card">
+                        <h3>🙏 Sacred Blessings</h3>
+                        <div class="phrase-entry">
+                            <p><strong>Classical Nahuatl:</strong> 🙏 Ōmeteōtl, in tōnēmi, in tlahuēlīlōc</p>
+                            <p><strong>Huasteca Variant:</strong> 🙏 Ometeotl, ne tonemi, ne tlawelilok</p>
+                            <p><strong>Translation:</strong> 🌟 Dual God, we live, we are powerful</p>
+                        </div>
+                    </div>
+                    
+                    <div class="language-card">
+                        <h3>📅 Calendar Invocation</h3>
+                        <div class="phrase-entry">
+                            <p><strong>Classical Nahuatl:</strong> 📅 Tōnalpōhualli, in tonalāmatl, tech-machtia</p>
+                            <p><strong>Huasteca Variant:</strong> 📅 Tonalpoohali, ne tonalamatl, tech-machtiya</p>
+                            <p><strong>Translation:</strong> ⏰ Day count, the book of days, teach us</p>
+                        </div>
+                    </div>
+                    
+                    <div class="language-card">
+                        <h3>🕯️ Ritual Opening</h3>
+                        <div class="phrase-entry">
+                            <p><strong>Classical Nahuatl:</strong> 🕯️ Ōmpa huītz teōtl, nican mani</p>
+                            <p><strong>Huasteca Variant:</strong> 🕯️ Ompa wiits teotl, nikan mani</p>
+                            <p><strong>Translation:</strong> ✨ From there comes god, here it rests</p>
+                        </div>
+                    </div>
+                    
+                    <div class="language-card">
+                        <h3>🧭 Sacred Directions</h3>
+                        <div class="directions-list">
+                            <p>☀️ East: 𝔦𝔦ℌ𝔲𝔞𝔱𝔩 (Ixhuatl)</p>
+                            <p>❄️ North: 𝔪𝔦𝔠𝔱𝔩𝔞𝔪𝔞 (Mictlámpa)</p>
+                            <p>🌅 West: 𝔠𝔦ℌ𝔲𝔞𝔱𝔩 (Cihuatl)</p>
+                            <p>🔥 South: ℌ𝔦𝔞𝔶 (Huitzilampa)</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>🌟 Created with reverence for indigenous wisdom traditions 🌟</p>
+            <p>Tonalpohualli: Sacred 260-day calendar of Mesoamerica</p>
+        </div>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

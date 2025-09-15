@@ -1,0 +1,325 @@
+{
+  "nahuatl_day_signs": [
+    {
+      "number": 1,
+      "name": "Cipactli",
+      "english": "Caiman",
+      "deity": "Tōnacātēcuhtli",
+      "direction": "East",
+      "meaning": "Beginning, primal creative force"
+    },
+    {
+      "number": 2,
+      "name": "Ehēcatl",
+      "english": "Wind",
+      "deity": "Quetzalcoatl",
+      "direction": "North",
+      "meaning": "Movement, breath, spirit"
+    },
+    {
+      "number": 3,
+      "name": "Calli",
+      "english": "House",
+      "deity": "Tepēyōllōtl",
+      "direction": "West",
+      "meaning": "Stability, foundation, shelter"
+    },
+    {
+      "number": 4,
+      "name": "Cuetzpalin",
+      "english": "Lizard",
+      "deity": "Huēhuecoyōtl",
+      "direction": "South",
+      "meaning": "Flexibility, adaptation"
+    },
+    {
+      "number": 5,
+      "name": "Cōātl",
+      "english": "Snake",
+      "deity": "Chalchiuhtlicue",
+      "direction": "East",
+      "meaning": "Transformation, healing"
+    },
+    {
+      "number": 6,
+      "name": "Miquiztli",
+      "english": "Death",
+      "deity": "Tecuciztecatl",
+      "direction": "North",
+      "meaning": "Endings, renewal, transformation"
+    },
+    {
+      "number": 7,
+      "name": "Mazātl",
+      "english": "Deer",
+      "deity": "Tlāloc",
+      "direction": "West",
+      "meaning": "Grace, gentleness, hunting"
+    },
+    {
+      "number": 8,
+      "name": "Tōchtli",
+      "english": "Rabbit",
+      "deity": "Mayahuel",
+      "direction": "South",
+      "meaning": "Fertility, abundance, lunar cycles"
+    },
+    {
+      "number": 9,
+      "name": "Ātl",
+      "english": "Water",
+      "deity": "Xiuhtecuhtli",
+      "direction": "East",
+      "meaning": "Flow, purification, life force"
+    },
+    {
+      "number": 10,
+      "name": "Itzcuintli",
+      "english": "Dog",
+      "deity": "Mictlāntēcutli",
+      "direction": "North",
+      "meaning": "Loyalty, guidance, psychopomp"
+    },
+    {
+      "number": 11,
+      "name": "Ozomahtli",
+      "english": "Monkey",
+      "deity": "Xochipilli",
+      "direction": "West",
+      "meaning": "Playfulness, creativity, arts"
+    },
+    {
+      "number": 12,
+      "name": "Malīnalli",
+      "english": "Grass",
+      "deity": "Patecatl",
+      "direction": "South",
+      "meaning": "Flexibility, tenacity, medicine"
+    },
+    {
+      "number": 13,
+      "name": "Ācatl",
+      "english": "Reed",
+      "deity": "Tezcatlipōca",
+      "direction": "East",
+      "meaning": "Guidance, authority, hollow vessel"
+    },
+    {
+      "number": 14,
+      "name": "Ocēlōtl",
+      "english": "Ocelot",
+      "deity": "Tlazōlteōtl",
+      "direction": "North",
+      "meaning": "Stealth, night, inner strength"
+    },
+    {
+      "number": 15,
+      "name": "Cuāuhtli",
+      "english": "Eagle",
+      "deity": "Xīpe Totēc",
+      "direction": "West",
+      "meaning": "Vision, power, solar energy"
+    },
+    {
+      "number": 16,
+      "name": "Cōzcacuāuhtli",
+      "english": "Vulture",
+      "deity": "Itzpapalotl",
+      "direction": "South",
+      "meaning": "Purification, death/rebirth"
+    },
+    {
+      "number": 17,
+      "name": "Olīn",
+      "english": "Movement",
+      "deity": "Xolotl",
+      "direction": "East",
+      "meaning": "Change, earthquake, current era"
+    },
+    {
+      "number": 18,
+      "name": "Tecpatl",
+      "english": "Flint",
+      "deity": "Chalchiuhtotolin",
+      "direction": "North",
+      "meaning": "Cutting, sacrifice, precision"
+    },
+    {
+      "number": 19,
+      "name": "Quiyahuitl",
+      "english": "Rain",
+      "deity": "Tōnatiuh",
+      "direction": "West",
+      "meaning": "Cleansing, nourishment, storms"
+    },
+    {
+      "number": 20,
+      "name": "Xōchitl",
+      "english": "Flower",
+      "deity": "Xōchiquetzal",
+      "direction": "South",
+      "meaning": "Beauty, art, pleasure, culmination"
+    }
+  ],
+  "maya_day_signs": [
+    {
+      "number": 1,
+      "name": "Imix",
+      "meaning": "Water lily, crocodile, primordial waters"
+    },
+    {
+      "number": 2,
+      "name": "Ikʼ",
+      "meaning": "Wind, breath, spirit"
+    },
+    {
+      "number": 3,
+      "name": "Akʼbʼal",
+      "meaning": "Night, darkness, temple"
+    },
+    {
+      "number": 4,
+      "name": "Kʼan",
+      "meaning": "Corn, seed, lizard"
+    },
+    {
+      "number": 5,
+      "name": "Chikchan",
+      "meaning": "Serpent, sky serpent"
+    },
+    {
+      "number": 6,
+      "name": "Kimi",
+      "meaning": "Death, ancestors"
+    },
+    {
+      "number": 7,
+      "name": "Manikʼ",
+      "meaning": "Deer, hand, healing"
+    },
+    {
+      "number": 8,
+      "name": "Lamat",
+      "meaning": "Rabbit, star, Venus"
+    },
+    {
+      "number": 9,
+      "name": "Muluk",
+      "meaning": "Water, jade, offering"
+    },
+    {
+      "number": 10,
+      "name": "Ok",
+      "meaning": "Dog, loyalty, heart"
+    },
+    {
+      "number": 11,
+      "name": "Chuwen",
+      "meaning": "Monkey, artisan, weaver"
+    },
+    {
+      "number": 12,
+      "name": "Ebʼ",
+      "meaning": "Grass, road, bad weather"
+    },
+    {
+      "number": 13,
+      "name": "Bʼen",
+      "meaning": "Reed, corn stalk, growing"
+    },
+    {
+      "number": 14,
+      "name": "Ix",
+      "meaning": "Jaguar, earth, shaman"
+    },
+    {
+      "number": 15,
+      "name": "Men",
+      "meaning": "Eagle, bird, wisdom"
+    },
+    {
+      "number": 16,
+      "name": "Kʼibʼ",
+      "meaning": "Vulture, wax, thought"
+    },
+    {
+      "number": 17,
+      "name": "Kabʼan",
+      "meaning": "Earth, thought, movement"
+    },
+    {
+      "number": 18,
+      "name": "Etzʼnabʼ",
+      "meaning": "Flint, knife, separation"
+    },
+    {
+      "number": 19,
+      "name": "Kawak",
+      "meaning": "Storm, rain, cleansing"
+    },
+    {
+      "number": 20,
+      "name": "Ajaw",
+      "meaning": "Lord, flower, light"
+    }
+  ],
+  "huasteca_elements": {
+    "phonological_features": [
+      "Eastern variety with 410,000 speakers",
+      "Phonemes: p, t, k, kʷ, ʔ, ts, tɬ, tʃ, s, ʃ, ʍ, h, m, n, j, w, r, l",
+      "Five vowel system: i, e, a, o with length distinctions"
+    ],
+    "orthography_variants": {
+      "IDIEZ": "Based on Classical Nahuatl evolution, morphology-aware",
+      "Government": "Spanish-influenced, surface-based",
+      "SIL": "Mixed approach, surface-based with some classical elements"
+    },
+    "sample_phrases": {
+      "IDIEZ": "ce tlahcuilolli tleh campa niitztoc (a book about my location)",
+      "Government": "se tlajkuiloli tlej kampa niitstok",
+      "SIL": "se tlajcuiloli tlej campa niitztoc"
+    }
+  },
+  "sacred_symbolism": {
+    "twisted_gourd": {
+      "nahuatl_term": "tecolli cuauhtli",
+      "meaning": "Sacred vessel for divination, ritual container",
+      "uses": [
+        "Water carrier",
+        "Ritual offerings",
+        "Divination bowl",
+        "Medicine container"
+      ],
+      "symbolism": "Womb of creation, vessel of knowledge, protective container"
+    },
+    "cave_symbolism": {
+      "nahuatl_term": "oztotl",
+      "meaning": "Sacred cave, place of emergence",
+      "connection": "Chicomoztoc - place of seven caves, origin of peoples",
+      "symbolism": "Womb of earth, place of transformation, underworld entrance"
+    },
+    "lightning_serpent": {
+      "nahuatl_term": "Quetzalcoatl-Tláloc",
+      "meaning": "Feathered serpent of storm and lightning",
+      "connection": "Fusion of wind/wisdom (Quetzalcoatl) and rain/lightning (Tláloc)",
+      "symbolism": "Divine knowledge through storm, illumination, transformation"
+    }
+  },
+  "divination_methods": {
+    "tonalamatl_reading": {
+      "description": "Traditional day-sign divination using the 260-day calendar",
+      "method": "Combine day number (1-13) with day sign (1-20) for guidance",
+      "interpretation": "Each combination provides specific spiritual guidance"
+    },
+    "trecena_guidance": {
+      "description": "13-day period ruled by specific deity",
+      "method": "Identify current trecena and its ruling deity for period guidance",
+      "application": "Planning ceremonies, important decisions, timing"
+    },
+    "directional_wisdom": {
+      "description": "Each day sign has cardinal direction association",
+      "method": "Use directional correspondences for spatial/energetic guidance",
+      "application": "Placement of offerings, travel timing, ceremonial orientation"
+    }
+  }
+}
