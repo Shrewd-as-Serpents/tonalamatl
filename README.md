@@ -8,13 +8,7 @@ In brief: The cycle restarts every 260 days. August 13, 1521 (Julian), is 1-Coat
 
 Time zone and calendar changes (Julian to Gregorian), leap year handling, and exact local day boundaries can all cause minor issues (e.g., UTC vs. local midnight).
 
-
-
-git clone https://github.com/yourusername/tonalamatl.git
-cd tonalamatl
-Open index.html in your browser
-
-
+***
 
 
 Find the ordinal distance (in days) between your anchor date (1-Coatl: August 13, 1521 Julian) and any target date (like today).
