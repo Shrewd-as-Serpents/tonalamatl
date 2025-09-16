@@ -12,7 +12,7 @@ Time zone and calendar changes (Julian to Gregorian), leap year handling, and ex
 
 git clone https://github.com/yourusername/tonalamatl.git
 cd tonalamatl
-# Open index.html in your browser
+Open index.html in your browser
 
 
 
