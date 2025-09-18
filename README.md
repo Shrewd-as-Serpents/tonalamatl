@@ -1,36 +1,25 @@
-# 𝕋𝕠𝕟𝕒𝕝𝕒𝕞𝕒𝕥𝕝: Nahuatl-Maya Sacred Calendar Reference & Strategy Planner
+# 𝕋𝕠𝕟𝕒𝕝𝕒𝕞𝕒𝕥𝕝: Talking Book : Nahuatl-Maya Sacred Calendar System
+This project is titled for the sacred talking book of ritual calendar workings 
+used by ancient and contemporaries alike of the Maya, Mexica, Nahua, Pueblo, &+ peoples.
 
-Tonalamatl is a modern interactive reference book and strategy planner for the Mesoamerican 260-day sacred calendar (Tonalpohualli/Tzolk’in), built to support calendar-based divination, ritual timing, and spiritual self-reflection. It features authentic Nahuatl and Maya day signs, Unicode symbolism, ritual guides, and advanced calendrical calculations anchored on historical evidence.
+It is conceptualized as an experimental calendrical counter, cosmic signal processor, Tonalpohualli study tool, and ceremonial calculator with modern, modular computation.
+This project attempts to describe temporal, geographic, and spiritual awareness as an interconnected, dynamic, self-validating system where every day has the signature of its formulation, and is calculated like a hollow point or vector of resonance within the cosmic/relational web of existence.
 
-The Alfonso Caso correlation aligns the Tonalpohualli system to the Gregorian/Julian calendar using the recorded date of the fall of Tenochtitlan (1-Coatl on August 13, 1521, Julian). This anchors the cyclical calendar to a continuous date stream, allowing modern conversion and accurate day sign calculation. Not all Daykeepers agree.
+Project Essence
+vigesimal systems, harmonic mathematics, principles of teotl:
 
-In brief: The cycle restarts every 260 days. August 13, 1521 (Julian), is 1-Coatl. (but not all Daykeepers agree)
+* Anchors time using 1-Coatl / the Fall of Tenochtitlan for temporal sovereignty and precision
+* Applies harmonic resonance and prime factorization to each day for validation and cosmic coherence
+* Builds modular, interactive calendars from dots, bars, and shells—translating cosmic principles into living digital structures
+* Embraces post-process validation: truth emerges through process, not arbitrary rules
+* Fosters emergent, self-sustaining logic—inspired by cellular automata and indigenous knowledge, not imposed external frameworks
 
-Time zone and calendar changes (Julian to Gregorian), leap year handling, and exact local day boundaries can all cause minor issues (e.g., UTC vs. local midnight).
+Features and Philosophy
 
-***
+Ordinal day-counting: maya long count bridges Xiuhpohualli, Julian, and Gregorian in continuous date stream
 
+Vigesimal (base-20), proportional measurements, harmonic primes, radial logic: indigenous and relational 
 
-Find the ordinal distance (in days) between your anchor date (1-Coatl: August 13, 1521 Julian) and any target date (like today).
+Drag & Drop Interface: Modular components for day-signs, numerals, harmonic validators, etc
 
-Account for the Julian-to-Gregorian switchover if needed (usually, you can work in Proleptic Gregorian for modern code).
-
-Modulo 260: The result modulo 260 gives you the position in the sacred cycle.
-
-Map index to day number/sign:
-
-The number cycles 1–13, the sign cycles 1–20. Start at 1-Coatl; iterate forward a day at a time, incrementing number and sign.
-
-
-needing test suite for edge cases (1500s, 2000s, leap centuries, etc.).
-
-
-predicting common issues:
-
-Date library quirks (esp. across Julian/Gregorian boundaries)
-
-Off-by-one errors due to local time/UTC
-
-Remember: The Julian day change is at noon in astronomical calendars, but for civil calendars, you want midnight
-
-
+Open, Sovereign, Decolonial: No dependence on the Gregorian paradigm; designed for adaptability, respect, and community sovereignty
