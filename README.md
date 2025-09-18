@@ -1,21 +1,35 @@
 # 𝕋𝕠𝕟𝕒𝕝𝕒𝕞𝕒𝕥𝕝: Talking Book : Nahuatl-Maya Sacred Calendar System
 
-## This project is titled for the sacred talking book of ritual workings 
+### This project is titled for the sacred talking book of ritual workings 
+
+### This project is dedicated to the study of Tonalpohualli, the Sacred Ritual Count of 260-Days
 
 
-this project is dedicated to the study of Tonalpohualli, the Sacred Ritual Count of 260-Days
-
-this project is dedicated to Nahuatlatolli, Xochitlcuicatl - 
+### This project is dedicated to Nahuatlatolli, to Xochitlcuicatl
 my prayer is a blossom from Truth, petals of sacred meaning draw Divine Breath and respirate
 
-this project is dedicated to participatory preservation and veneration Our Sacred and Ancestral Ways:
 
-with great respect and gratitude to my Ancestors and our contemporaries
+### this project is dedicated to participatory preservation and veneration of Our Sacred and Ancestral Ways:
+
+with great respect and gratitude to my Ancestors and our contemporaries:
 
 ### The Maize and Milpa Peoples; Maya, Mexica, Nahua, Pueblo, Laguna, Plains, & +
-... diverse, beautiful, daring, intellectual, artistic, farming, dreaming peoples ...
 
-we exist not as artifacts but living, remembering, participatory kin with unique, sovereign identities, purpose, and paths
+
+*... diverse, beautiful, daring, intellectual, artistic, farming, dreaming peoples ...*
+
+*... with love for the land, weather, spirits, stars, and all my relations ...*
+
+*... from the Place of Seven Caves, the Twisted Gourd, Sacred Cenotes ...*
+
+*... Lake Atitlán, from where the rainbow got its colors ...*
+
+## *tlazocamati!*
+
+
+we are not artifacts! we are living, remembering, participatory kin - each with a unique identity, purpose, and path.
+
+
 
 
 *** 
