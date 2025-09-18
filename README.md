@@ -1,26 +1,26 @@
 # 𝕋𝕠𝕟𝕒𝕝𝕒𝕞𝕒𝕥𝕝: Talking Book : Nahuatl-Maya Sacred Calendar System
 
-### This project is titled for the sacred talking book of ritual workings 
+## This project is titled for the sacred talking book of ritual workings 
 
 
 this project is dedicated to the study of Tonalpohualli, the Sacred Ritual Count of 260-Days
 
-this project is dedicated to Nahuatlatolli, Xochitlcuicatl 
+this project is dedicated to Nahuatlatolli, Xochitlcuicatl - 
 my prayer is a blossom from Truth, petals of sacred meaning draw Divine Breath and respirate
 
 this project is dedicated to participatory preservation and veneration Our Sacred and Ancestral Ways:
 
 with great respect and gratitude to my Ancestors and our contemporaries
 
-## The Maize and Milpa Peoples; Maya, Mexica, Nahua, Pueblo, Laguna, Plains, & +
+### The Maize and Milpa Peoples; Maya, Mexica, Nahua, Pueblo, Laguna, Plains, & +
 ... diverse, beautiful, daring, intellectual, artistic, farming, dreaming peoples ...
 
-we exist not as artifacts but living, remembering, participatory kin with unique, sovereign identities, purpose, and path.
+we exist not as artifacts but living, remembering, participatory kin with unique, sovereign identities, purpose, and paths
 
 
 *** 
 
-This Tonalamat project is conceptualized as an experimental calendrical counter, cosmic signal processor, Tonalpohualli study tool, and ceremonial calculator with modern, modular computation.
+This Tonalamatl project is conceptualized as an experimental calendrical counter, cosmic signal processor, Tonalpohualli study tool, and ceremonial calculator with modern, modular computation.
 This project attempts to describe temporal, geographic, and spiritual awareness as an interconnected, dynamic, self-validating system where every day has the signature of its formulation (derived paradoxically) from calendrical calculations like hollow points, vectors, or operators within systems of stable, obligate mutualism (resonance).
 
 ### Project Essence
