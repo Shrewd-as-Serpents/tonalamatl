@@ -47,6 +47,10 @@ This project attempts to describe temporal, geographic, and spiritual awareness 
 Features and Philosophy
 
 * Ordinal day-counting: maya long count bridges Xiuhpohualli, Julian, and Gregorian in continuous date stream
-* Vigesimal (base-20), proportional measurements, harmonic primes, radial logic: indigenous and relational 
+* Vigesimal (base-20), proportional measurements, harmonic primes, radial logic: indigenous and relational
 * Drag & Drop Interface: Modular components for day-signs, numerals, harmonic validators, etc
 * Open, Sovereign, Decolonial: No dependence on the Gregorian paradigm; designed for adaptability, respect, and community sovereignty
+
+***
+wiki fer'more 
+https://github.com/Shrewd-as-Serpents/tonalamatl/wiki/core-concepts
